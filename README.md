@@ -3,7 +3,6 @@ a website to that helps students to choose their dream college.
 
 **🌟Project Overview:**
 Peer2Peer (P2P) is a web-based mentorship platform designed to connect students with experienced mentors. The platform focuses on helping students make informed decisions about their education, such as choosing the right college or university, and offers personalized guidance tailored to individual aspirations.
-
 P2P is built to address the gap in proper educational counseling available to students, especially those from underrepresented or remote areas. The platform promotes peer learning, mentor-driven career advice, and a supportive environment that empowers students to achieve their academic and professional goals.
 
 **🎯Objective**:
